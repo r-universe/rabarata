@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "exdqlm"]
 	path = exdqlm
-	url = https://github.com/cran/exdqlm
+	url = https://github.com/rabarata/exdqlm
